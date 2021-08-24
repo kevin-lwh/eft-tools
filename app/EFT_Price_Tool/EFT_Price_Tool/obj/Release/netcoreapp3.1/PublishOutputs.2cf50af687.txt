@@ -1,0 +1,10 @@
+C:\Users\kevin\Desktop\test3\beep-end.wav
+C:\Users\kevin\Desktop\test3\beep-start.wav
+C:\Users\kevin\Desktop\test3\record_transcribe.py
+C:\Users\kevin\Desktop\test3\solid-solstice-316204-d35b67c50206.json
+C:\Users\kevin\Desktop\test3\EFT_Price_Tool.exe
+C:\Users\kevin\Desktop\test3\EFT_Price_Tool.dll
+C:\Users\kevin\Desktop\test3\EFT_Price_Tool.deps.json
+C:\Users\kevin\Desktop\test3\EFT_Price_Tool.runtimeconfig.json
+C:\Users\kevin\Desktop\test3\EFT_Price_Tool.pdb
+C:\Users\kevin\Desktop\test3\Newtonsoft.Json.dll
